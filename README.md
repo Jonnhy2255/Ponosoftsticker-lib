@@ -1,0 +1,2 @@
+# Ponosoftsticker-lib
+create betapp
