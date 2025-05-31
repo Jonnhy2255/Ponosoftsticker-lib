@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <circle cx="60" cy="60" r="55" fill="#FFD93B" stroke="#F4C534" stroke-width="5"/>
+  <circle cx="40" cy="50" r="10" fill="#3E4347"/>
+  <circle cx="80" cy="50" r="10" fill="#3E4347"/>
+  <ellipse cx="60" cy="80" rx="20" ry="12" fill="#fff"/>
+  <text x="60" y="86" font-size="16" font-family="Arial, sans-serif" fill="#3E4347" text-anchor="middle" font-weight="bold">WOW</text>
+</svg>
